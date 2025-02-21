@@ -1,4 +1,4 @@
-> This repo includes notes that I have taken to study data structures and algorithms in depth with the goal of getting better at competetive programming.
+> This repo includes notes that I have taken to study data structures and algorithms in depth with the goal of getting better at competetive programming using Java.
 
 ## REFERENCES
 
